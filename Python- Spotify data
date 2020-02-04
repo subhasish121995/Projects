@@ -1,0 +1,4 @@
+This newbie project deals with the analysis of the attributes of the Spotify data. The project mainly focuses on the factors effecting the measure of ‘Valence’ in the Spotify dataset. 
+After the proper exploratory analysis of the data, it has been discovered that the primary factors influencing the target variable is very noisy and has a lot of outliers in it. 
+Therefore the ouliers are handled in order to make an useful use of those and replacing it with a sensible value. 
+In the end, a Multiple Linear Regression model has been built and in order to access the accuracy of the model, R2 score is used as an evaluation factor.
